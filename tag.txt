@@ -1,0 +1,17 @@
+
+<div>
+The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
+<article>
+The <article> tag specifies independent, self-contained content.
+<section>
+The <section> tag defines a section in a document.
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+</body>
+</html>
