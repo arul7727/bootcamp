@@ -15,3 +15,21 @@ The <section> tag defines a section in a document.
 <p>My first paragraph.</p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<ht
+    <head>
+        <body>
+            <h1>ARULKUMAR.R</h1>
+            <p>155/2 Muslim street bye Pass road paramathi 
+                Velur(TK), Namakkal(Dt).
+                Mobile Number: +91-9790273057	
+                Email ID: arul7727@gmail.com 
+            </p>
+            <h2>OBJECTIVE</h2>
+            <p>To be a successful professional in a globally recognized company and to achieve the objectives of the company with honesty and fairness and to continuously upgrade my knowledge and skills.
+            </p>
+        </body>
+    </head>
+</html>
