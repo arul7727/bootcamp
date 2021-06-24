@@ -1,3 +1,5 @@
+16/06/2021
+___________
 
 <div>
 The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript.
@@ -7,6 +9,7 @@ The <article> tag specifies independent, self-contained content.
 The <section> tag defines a section in a document.
 
 
+smaple html
 
 <!DOCTYPE html>
 <html>
@@ -17,6 +20,7 @@ The <section> tag defines a section in a document.
 </html>
 
 
+html by create a Resume.
 <!DOCTYPE html>
 <ht
     <head>
@@ -33,3 +37,15 @@ The <section> tag defines a section in a document.
         </body>
     </head>
 </html>
+
+typeof the following list.
+
+        typeof(1)               -> number
+        typeof(1.1)             -> number
+        typeof('1.1')           -> String
+        typeof(true)            -> boolean
+        typeof(null)            -> object
+        typeof(undefined)       -> undefined
+        typeof([])              -> obect
+        typeof({})              -> object
+        typeof(NaN)             -> number
